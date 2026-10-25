@@ -24,3 +24,7 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# SQLite Databases
+*.db
+*.sqlite3
